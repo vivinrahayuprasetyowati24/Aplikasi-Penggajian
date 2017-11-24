@@ -1,0 +1,18 @@
+input[type=text], input[type=date]{
+	height: 35px;
+	width: 500px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+
+}
+input[type=submit]:hover{
+	background-color: pink;
+	transition-duration: 0.6s;
+}
+.kanan{
+	text-align: right;
+	margin-right: 70px;
+	padding: 5px;
+}
