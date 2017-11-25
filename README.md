@@ -1,6 +1,7 @@
 # Aplikasi-Penggajian
 
 B. DEFINISI
+
  Gaji dan upah merupakan balas jasa yang diterima karyawan atas pekerjaan yang dilakukannya. Bagi karyawan, gaji dan upah merupakan bentuk penghargaan atas pekerjaan dan prestasi kerjanya. Dengan aplikasi ini diharapkan atasan bisa mengetahui atau mengontrol sistem penggajian.
 
 C. TUJUAN
