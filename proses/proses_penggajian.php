@@ -7,5 +7,5 @@
 										'$_POST[gaji_bersih]',
 										'$_POST[nip]',
 										'$_POST[kode_petugas]'");
-	echo "<script>document.location = '../content/tampil_print.php'</script>";
+	echo "<script>document.location = '../content/print.php'</script>";
  ?>
